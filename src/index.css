@@ -1,0 +1,14 @@
+*{
+  font-family: Outfit,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bg-primary {
+  background-color: #5f6fff;
+}
+
+.active .nav-underline {
+  display: block;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
